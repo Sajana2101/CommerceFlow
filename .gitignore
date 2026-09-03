@@ -1,0 +1,14 @@
+.vs/
+**/bin/
+**/obj/
+
+node_modules/
+**/node_modules/
+
+.env
+**/.env
+
+*.user
+*.suo
+*.userosscache
+*.sln.docstates

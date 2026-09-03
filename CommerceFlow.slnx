@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="CommerceFlow.Api/CommerceFlow.Api.csproj" />
+  <Project Path="CommerceFlow.Application/CommerceFlow.Application.csproj" />
+  <Project Path="CommerceFlow.Domain/CommerceFlow.Domain.csproj" />
+  <Project Path="CommerceFlow.Infrastructure/CommerceFlow.Infrastructure.csproj" />
+  <Project Path="CommerceFlow.NotificationService/CommerceFlow.NotificationService.csproj" Id="6bc184fa-d29b-4bf5-89b5-a0e410381005" />
+</Solution>
